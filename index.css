@@ -23,8 +23,8 @@ body {
 	top: 50%;
 	transform: translate(-50%, -50%);
 	color: white;
-	box-shadow: 0 0 10vh white;
 	font-size: 5vh;
+	box-shadow: 0 0 10vh white;
 }
 
 #btn:active {
