@@ -1,43 +1,43 @@
 * {
-		margin: 0;
-		padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 body {
-		background-color: #272a3d;
-		font-family: 'Montserrat', sans-serif;
+	background-color: #272a3d;
+	font-family: 'Montserrat', sans-serif;
 }
 
 #container {
-		text-align: center;
+	text-align: center;
 }
 
 #btn {
-		background-color: #272a3d;
-		border-radius: 50%;
-		border: solid 0.1vh white;
-		outline: none;
-		width: 35vh;
-		height: 35vh;
-		position: absolute;
-		top: 50%;
-		transform: translate(-50%, -50%);
-		color: white;
-		box-shadow: 0 0 10vh white;
-		font-size: 5vh;
+	background-color: #272a3d;
+	border-radius: 50%;
+	border: solid 0.1vh white;
+	outline: none;
+	width: 35vh;
+	height: 35vh;
+	position: absolute;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	box-shadow: 0 0 10vh white;
+	font-size: 5vh;
 }
 
 #btn:active {
-		width: 32vh;
-		height: 32vh;
-		font-size: 4vh;
+	width: 32vh;
+	height: 32vh;
+	font-size: 4vh;
 }
 
 #count {
-		color: white;
-		position: absolute;
-		top: 15%;
-		left: 50%;
-		transform: translateX(-50%);
-		font-size: 4vh;
+	color: white;
+	position: absolute;
+	top: 15%;
+	left: 50%;
+	transform: translateX(-50%);
+	font-size: 4vh;
 }
